@@ -3,8 +3,6 @@
 - 👀 I’m interested in AI, deep learning, videogames, art, music, internet ...
 - 📫 How to reach me (https://www.youtube.com/channel/UCuu4F8ciHltIPsShWrMvyEA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fjX0a2IHxow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <a href="https://ibb.co/dPw7RGF"><img src="https://i.ibb.co/0CRQxhT/graffiti-digital-videogame-type-666art.jpg" alt="graffiti-digital-videogame-type-666art" border="0"></a>
 
 
