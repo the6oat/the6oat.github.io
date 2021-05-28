@@ -14,5 +14,9 @@
 
 [Link to my SoundCloud!](https://soundcloud.com/6six6-thegoat)
 
+<div id="app"></div>
+<script src="https://unpkg.com/webamp"></script>
+<script>new Webamp().renderWhenReady(app);</script>
+
 
 
