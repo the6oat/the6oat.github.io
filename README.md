@@ -32,7 +32,7 @@
 
 <hr>
 <p align="center">
-Developed with ❤️ in UTOPIA corp
+⚠ Developed with ❤️ in UTOPIA corp ⚠
 </p>
 
 
