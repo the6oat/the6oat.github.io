@@ -1,3 +1,4 @@
+
 <img src="https://i.ibb.co/cQ7Rn2c/utopia-sticker.png" alt="utopia-sticker" border="0">
 
 - 👋 Hi, I’m @the6oat , as know as 6$ix6 on youtube, audiovisual creator.
@@ -10,14 +11,11 @@
 
 <hr>
 
-
-[link to my YOUTUBE channel!](https://www.youtube.com/c/MAIKELPFSTHEONEPERREOMEN)
-
+  [link to my YOUTUBE channel!](https://www.youtube.com/c/MAIKELPFSTHEONEPERREOMEN)
 
 <hr>
 
-[Link to my SoundCloud!](https://soundcloud.com/6six6-thegoat)
-
+  [Link to my SoundCloud!](https://soundcloud.com/6six6-thegoat)
 
 
 
@@ -35,9 +33,8 @@
 
 <hr>
 <p align="center">
-⚠ Developed with ❤️ in UTOPIA corp ⚠
+Developed with ❤️ in UTOPIA corp
 </p>
-
 
 
 
