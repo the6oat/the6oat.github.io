@@ -3,7 +3,9 @@
 
 <h1 align="center">
   𝟞$𝕚𝕩𝟞 𝕒𝕜𝕒 𝕋𝕙𝕖 𝔾𝕠𝕒𝕥
-</h1>  
+</h1>
+
+<hr>
 
 
 
@@ -15,7 +17,7 @@
 
 
 
-##
+<hr>
 
 <p align="center">
 <a href="https://ibb.co/dPw7RGF"><img src="https://i.ibb.co/0CRQxhT/graffiti-digital-videogame-type-666art.jpg" alt="graffiti-digital-videogame-type-666art" border="0"></a>
