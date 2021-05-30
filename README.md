@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/cQ7Rn2c/utopia-sticker.png" alt="utopia-sticker" border="0">
 
 <h1 align="center">
-  𝟞$𝕚𝕩𝟞 𝕒𝕜𝕒 𝕋𝕙𝕖 𝔾𝕠𝕒𝕥
+  🐐 𝟞$𝕚𝕩𝟞 𝕒𝕜𝕒 𝕋𝕙𝕖 𝔾𝕠𝕒𝕥 🐐
 </h1>
 
 <hr>
@@ -18,6 +18,12 @@
 
  
 - 📫 How to reach me: [link to UTOPIA YOUTUBE channel!](https://www.youtube.com/channel/UCuu4F8ciHltIPsShWrMvyEA)
+
+
+- [Link to my YOUTUBE channel!](https://www.youtube.com/c/MAIKELPFSTHEONEPERREOMEN)
+
+
+- [Link to my SoundCloud!](https://soundcloud.com/6six6-thegoat)
 
 
 
