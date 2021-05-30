@@ -11,16 +11,18 @@
 
 <hr>
 
-  [link to UTOPIA YOUTUBE channel!](https://www.youtube.com/c/MAIKELPFSTHEONEPERREOMEN)
+
+[link to UTOPIA YOUTUBE channel!](https://www.youtube.com/c/MAIKELPFSTHEONEPERREOMEN)
+
 
 <hr>
 
+
   [link to UTOPIA YOUTUBE channel!](https://soundcloud.com/6six6-thegoat)
-
-
-
-
-<p align="center">
+  
+  
+  
+  <p align="center">
   <a href="https://the6oat.github.io/">
     <img alt="GitHub Profile Readme Generator" src="https://user-images.githubusercontent.com/84877781/120053824-a8eb0280-c02c-11eb-9f5d-41ba26cb0b2b.png" width="60" />
   </a>
