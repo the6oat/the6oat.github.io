@@ -37,6 +37,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://odysee.com/@theGoat666">
+    <img alt="Group 1odysee button666" src="https://user-images.githubusercontent.com/84877781/120901906-b95b3880-c63d-11eb-8e2a-7b09432a9326.png" width="550"/>
+  </a>
+</p>
+
 
 <hr>
 
